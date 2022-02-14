@@ -1,0 +1,300 @@
+@media only screen and (min-width: 800px) {
+    .d-flex {
+        margin-left: 900px;
+    }
+    .col-sm-4 {
+        position: relative;
+        left: 150px;
+    }
+    .form2 {
+        margin-left: 270px;
+        margin-top: 130px;
+        border: solid 1.5px var(--secondary-color);
+        border-radius: 15px;
+        padding-bottom: 30px;
+        padding-top: 30px;
+        box-shadow: 0 4px 30px var(--secondary-color);
+    }
+    .btn {
+        margin-top: 10px;
+    }
+    html {
+        height: 1500px;
+        width: 100%;
+    }
+    .card {
+        width: 120%;
+    }
+    .list-group {
+        width: 121.25%;
+    }
+    .card-footer {
+        width: 121.25%;
+    }
+    .list-group-item {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    .d-flex input {
+        border: solid 1.5px green;
+        padding-top: 15px;
+    }
+    .col-sm-8 span {
+        font-size: 34px !important;
+        color: orangered;
+    }
+    .col-sm-8 h3 {
+        font-size: 25px !important;
+    }
+    html {
+        height: 2590px;
+    }
+    .card {
+        width: 26rem;
+    }
+}
+
+ :root {
+    --primary-color: #f8f9fa;
+    --secondary-color: #292929;
+}
+
+.dark-theme {
+    --primary-color: #000106;
+    --secondary-color: #fff;
+}
+
+.bg-light {
+    background-color: var(--primary-color) !important;
+    color: var(--secondary-color) !important;
+}
+
+.bg-light a {
+    color: var(--secondary-color) !important;
+}
+
+.fa-moon {
+    color: var(--secondary-color);
+    font-size: 20px;
+    padding-left: 5px;
+    cursor: pointer;
+}
+
+.header-pp {
+    margin: 0%;
+    width: 100%;
+    height: 700px;
+    display: block;
+}
+
+.dropdown-item {
+    color: var(--secondary-color) !important;
+    background-color: var(--primary-color);
+}
+
+.navbar-toggler {
+    color: var(--primary-color) !important;
+}
+
+.container {
+    border: solid 1.5px #000;
+    width: 100% !important;
+}
+
+.row {
+    width: 100% !important;
+}
+
+.cls {
+    height: 400px;
+    background-color: #f8f9fa;
+}
+
+.col-sm-4 {
+    background: url("images/pp.jpeg");
+    background-size: cover;
+    border-radius: 50%;
+    background-color: var(--primary-color);
+}
+
+.col-sm-8 span {
+    font-size: 48px;
+    color: orangered;
+}
+
+.col-sm-8 h3 {
+    margin-top: 100px;
+    color: var(--secondary-color);
+}
+
+body {
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+}
+
+.col-sm-8 {
+    background-color: var(--primary-color);
+}
+
+.col-sm-8 button {
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+}
+
+.col-sm {
+    background-color: var(--primary-color);
+}
+
+.container {
+    margin-top: 15px;
+}
+
+.logo1 {
+    background: url("images/html-logo.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 1rem !important;
+    height: 100px;
+}
+
+.logo2 {
+    background: url("images/bootstrap-logo.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 1rem !important;
+    height: 100px;
+}
+
+.logo3 {
+    background: url("images/javascript-logo.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 1rem !important;
+    height: 100px;
+}
+
+.logo4 {
+    background: url("images/ajax-logo.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 1rem !important;
+    height: 100px;
+}
+
+.logo5 {
+    background: url("images/angular.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 1rem !important;
+    height: 100px;
+}
+
+.logo6 {
+    background: url("images/java-logo.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 1rem !important;
+    height: 100px;
+}
+
+.logo7 {
+    background: url("images/dart.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 1rem !important;
+    height: 100px;
+}
+
+.logo8 {
+    background: url("images/flutter.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 1rem !important;
+    height: 100px;
+}
+
+.logo9 {
+    background: url("images/mysqli.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 1rem !important;
+    height: 100px;
+}
+
+.logo10 {
+    background: url("images/php.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 1rem !important;
+    height: 100px;
+}
+
+.logo11 {
+    background: url("images/web-development-jquery-ui-javascript-computer-icons-jqlogo-586a50c937943b500786cc00fdf9ce25.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 1rem !important;
+    height: 100px;
+}
+
+.logo12 {
+    background: url("images/laravel_logo.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 1rem !important;
+    height: 100px;
+}
+
+.border {
+    border: none !important;
+}
+
+.p-3 {
+    border: none!important;
+}
+
+.col {
+    border: none!important;
+}
+
+.row {
+    border: none!important;
+}
+
+.gx-5 {
+    border: none !important;
+}
+
+.container,
+.px-4 {
+    border: none;
+}
+
+.card {
+    margin-top: 80px;
+    background-color: var(--secondary-color) !important;
+}
+
+.card li {
+    color: var(--primary-color) !important;
+}
+
+.card-footer {
+    color: var(--primary-color) !important;
+}
+
+.list-group-item {
+    background-color: var(--secondary-color) !important;
+}
+
+.fa-whatsapp {
+    color: green;
+    padding-right: 10px;
+}
+
+.fa-instagram {
+    padding-right: 10px;
+    color: purple;
+}
