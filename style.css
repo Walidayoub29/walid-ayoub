@@ -303,7 +303,7 @@ body {
 }
 
 .logo13 {
-    background: url("images/clang.png");
+    background: url("clang.png");
     background-size: contain;
     background-repeat: no-repeat;
     padding: 1rem !important;
@@ -311,7 +311,7 @@ body {
 }
 
 .logo14 {
-    background: url("images/cplus.png");
+    background: url("cplus.png");
     background-size: contain;
     background-repeat: no-repeat;
     padding: 1rem !important;
@@ -319,7 +319,7 @@ body {
 }
 
 .logo15 {
-    background: url("images/csharp.png");
+    background: url("csharp.png");
     background-size: contain;
     background-repeat: no-repeat;
     margin-right: 30px;
@@ -328,7 +328,7 @@ body {
 }
 
 .logo16 {
-    background: url("images/python00.png");
+    background: url("python00.png");
     background-size: contain;
     background-repeat: no-repeat;
     padding: 1rem !important;
@@ -336,7 +336,7 @@ body {
 }
 
 .logo17 {
-    background: url("images/reactjs.png");
+    background: url("reactjs.png");
     background-size: contain;
     background-repeat: no-repeat;
     padding: 1rem !important;
@@ -344,7 +344,7 @@ body {
 }
 
 .logo18 {
-    background: url("images/ruby.png");
+    background: url("ruby.png");
     background-size: contain;
     background-repeat: no-repeat;
     padding: 1rem !important;
