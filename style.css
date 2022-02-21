@@ -54,6 +54,9 @@
     .card {
         width: 26rem;
     }
+    .val {
+        margin-top: 350px;
+    }
 }
 
  :root {
@@ -297,4 +300,62 @@ body {
 .fa-instagram {
     padding-right: 10px;
     color: purple;
+}
+
+.logo13 {
+    background: url("images/clang.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 1rem !important;
+    height: 100px;
+}
+
+.logo14 {
+    background: url("images/cplus.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 1rem !important;
+    height: 100px;
+}
+
+.logo15 {
+    background: url("images/csharp.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-right: 30px;
+    padding: 1rem !important;
+    height: 100px;
+}
+
+.logo16 {
+    background: url("images/python00.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 1rem !important;
+    height: 100px;
+}
+
+.logo17 {
+    background: url("images/reactjs.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 1rem !important;
+    height: 100px;
+}
+
+.logo18 {
+    background: url("images/ruby.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 1rem !important;
+    height: 100px;
+    margin-top: 25px;
+}
+
+@media only screen and (min-width: 800px) {
+    #pos {
+        position: relative;
+        left: 390px;
+        bottom: 345px;
+    }
 }
